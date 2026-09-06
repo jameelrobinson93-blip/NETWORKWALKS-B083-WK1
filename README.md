@@ -13,6 +13,14 @@
 ![NetworkWalks](https://img.shields.io/badge/NetworkWalks-404040?style=flat-square\&labelColor=C000000)
 ![Ethical Hacking](https://img.shields.io/badge/Ethical%20Hacking-E87500?style=flat-square\&labelColor=000000\&logo=kalilinux\&logoColor=white)
 
+## 📖 Project Overview
+
+This project is focused on building my own **virtual cybersecurity and penetration-testing lab** using Oracle VirtualBox and Kali Linux.
+
+The goal of this lab is to create a safe and controlled environment where I can practice cybersecurity skills such as **network scanning, reconnaissance, vulnerability assessment, and penetration testing**.
+
+I configured the lab using a private virtual network so I can add additional virtual machines in the future and use them as controlled targets for **authorized security testing**. This environment will allow me to continue developing my hands-on cybersecurity skills without affecting real-world systems or networks.
+
 ---
 ## 🎯 Objectives
 
