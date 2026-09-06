@@ -55,52 +55,65 @@ This project demonstrates the setup of a controlled virtual cybersecurity enviro
 
 # 🪜 Lab Setup
 
-## Step 1 — Install VirtualBox
+## Step 1 - Download & Install 7-Zip 
 
-I installed Oracle VirtualBox to create and manage my virtual machines.
+https://7-zip.org/download.html
 
-### Screenshot
+Purpose - 7-Zip is a free file compression and extraction program. It lets you open/extract compressed files and compress files into smaller archives.
 
-![VirtualBox](screenshots/01-virtualbox.png)
+## Step 2 — Download & Install VirtualBox
 
----
+https://virtualbox.org/wiki/Downloads
 
-## Step 2 — Install Kali Linux
+<img width="478" height="322" alt="VM " src="https://github.com/user-attachments/assets/18b685a4-21fa-4dd4-a70c-d63d570d8330" />
 
-I installed Kali Linux as my primary cybersecurity virtual machine.
-
-Kali Linux will be used for security testing, networking, troubleshooting, and cybersecurity labs.
-
-### Screenshot
-
-![Kali Installation](screenshots/02-kali-installation.png)
+Purpose - I installed Oracle VirtualBox to create and manage my virtual machines for sandbox testing.
 
 ---
 
-## Step 3 — Start Kali Linux
-
-After completing the installation, I started the Kali Linux virtual machine and verified that the operating system was working correctly.
-
-### Screenshot
-
-![Kali Desktop](screenshots/03-kali-desktop.png)
-
----
-
-## Step 4 — Configure Network Settings
+## Step 3 — Configure Network Settings
 
 I configured the network settings for the Kali Linux virtual machine through VirtualBox.
 
 The network configuration allows the virtual machine to communicate with the network while keeping my cybersecurity testing environment controlled.
 
-### Screenshot
+<img width="1859" height="860" alt="NatNetwork" src="https://github.com/user-attachments/assets/3f636665-0c7b-4909-91db-5bd69c4957d8" />
 
-<img width="334" height="481" alt="Network Walk" src="https://github.com/user-attachments/assets/2d94f19a-bc44-4825-8fd3-328de3adc1d5" />
+---
+## Step 4 — Download & Install Kali Linux
+
+https://kali.org/get-kali 
+
+<img width="1120" height="490" alt="kali" src="https://github.com/user-attachments/assets/99af80ce-54c3-48e7-8784-c0772dff0eeb" />
+
+Purpose- I installed Kali Linux as my primary cybersecurity virtual machine.
+Kali Linux will be used for security testing, networking, troubleshooting, and cybersecurity labs.
+<img width="557" height="269" alt="setting vm" src="https://github.com/user-attachments/assets/62ea313f-aa1a-42da-a4ab-03d19cdffff6" />
+
+---
+
+## Step 5 — Start Kali Linux
+
+After completing the installation, I started the Kali Linux virtual machine and verified that the operating system was working correctly.
+
+<img width="1285" height="804" alt="Kali Dersktop" src="https://github.com/user-attachments/assets/7145b8cb-2b2c-4ffa-8432-3f4f4191c3b6" />
 
 
 ---
 
-## Step 5 — Check the IP Address
+## Step 6 — Configure Network Settings
+
+I configured the network settings for the Kali Linux virtual machine through VirtualBox.
+
+The network configuration allows the virtual machine to communicate with the network while keeping my cybersecurity testing environment controlled.
+
+<img width="1859" height="860" alt="NatNetwork" src="https://github.com/user-attachments/assets/3f636665-0c7b-4909-91db-5bd69c4957d8" />
+
+<img width="557" height="269" alt="setting vm" src="https://github.com/user-attachments/assets/918ce7b7-3f88-4678-a7d7-4ea20e1a18ab" />
+
+---
+
+## Step 7 — Check the IP Address
 
 I used the Kali terminal to check the assigned IP address.
 
