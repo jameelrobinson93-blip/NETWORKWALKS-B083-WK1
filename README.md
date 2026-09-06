@@ -13,12 +13,6 @@
 ![NetworkWalks](https://img.shields.io/badge/NetworkWalks-404040?style=flat-square\&labelColor=C000000)
 ![Ethical Hacking](https://img.shields.io/badge/Ethical%20Hacking-E87500?style=flat-square\&labelColor=000000\&logo=kalilinux\&logoColor=white)
 
-                                              ## Project Overview
-
-This project documents the setup of my personal cybersecurity lab using Oracle VirtualBox and Kali Linux.
-
-The purpose of this lab is to create a safe environment where I can practice cybersecurity, networking, troubleshooting, and security tools.
-
 ---
 ## 🎯 Objectives
 
