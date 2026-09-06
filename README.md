@@ -1,5 +1,4 @@
-# -NETWORKWALKS-B083-WK1-PM1-CYBERSECURITY-LAB-SETUP
-Cybersecurity Lab Environment Setup
+CYBERSECURITY-LAB-SETUP
 # 🔐 Cybersecurity Lab Environment Setup
 ## 🛡️ Cybersecurity Skills
 
@@ -14,7 +13,7 @@ Cybersecurity Lab Environment Setup
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-404040?style=flat-square\&labelColor=C000000\&logo=kalilinux\&logoColor=white)
 ![NetworkWalks](https://img.shields.io/badge/NetworkWalks-404040?style=flat-square\&labelColor=C000000)
 ![Ethical Hacking](https://img.shields.io/badge/Ethical%20Hacking-E87500?style=flat-square\&labelColor=000000\&logo=kalilinux\&logoColor=white)
-
+Jameel Robinson
 
 ## Project Overview
 
