@@ -95,7 +95,8 @@ The network configuration allows the virtual machine to communicate with the net
 
 ### Screenshot
 
-![Network Settings](screenshots/04-network-settings.png)
+<img width="334" height="481" alt="Network Walk" src="https://github.com/user-attachments/assets/2d94f19a-bc44-4825-8fd3-328de3adc1d5" />
+
 
 ---
 
