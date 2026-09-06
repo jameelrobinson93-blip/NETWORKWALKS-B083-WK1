@@ -23,16 +23,34 @@ This project documents the setup of my personal cybersecurity lab using Oracle V
 The purpose of this lab is to create a safe environment where I can practice cybersecurity, networking, troubleshooting, and security tools.
 
 ---
+## 🎯 Objectives
 
-## 🛠️ Tools Used
+The main objectives of this cybersecurity lab are to:
 
-- Oracle VirtualBox
-- Kali Linux
-- Windows PC
-- Nmap
-- Wireshark
-- Cisco Packet Tracer
-- OWASP ZAP
+* Install and configure **Oracle VirtualBox**.
+* Install and configure **Kali Linux** as a virtual machine.
+* Create a private **NAT Network** for the cybersecurity lab environment.
+* Configure network connectivity between the virtual machine and lab network.
+* Assign and verify a consistent IP address for the Kali Linux VM.
+* Test network connectivity and DNS resolution.
+* Create a clean **VM snapshot** for recovery and future testing.
+* Document each step of the lab setup with screenshots and notes.
+* Build a controlled environment for future cybersecurity labs and security testing.
+
+## 🛠️ Technologies & Tools
+
+* Kali Linux
+* Oracle VirtualBox
+* NAT Network
+* Linux Networking
+* DNS
+* Virtual Machines
+* GitHub
+* Nmap
+
+## 📌 Project Purpose
+
+This project demonstrates the setup of a controlled virtual cybersecurity environment using Kali Linux and Oracle VirtualBox. The environment will be used for future hands-on exercises involving networking, vulnerability assessment, penetration testing, and cybersecurity analysis.
 
 ---
 
